@@ -1,0 +1,146 @@
+16:08:04.830 [main] DEBUG resources.Base - Site Type is selected
+16:08:04.988 [main] DEBUG resources.Base - TransformerRating is Entered
+16:08:05.089 [main] DEBUG resources.Base - Applied Load is Entered
+16:08:06.825 [main] DEBUG resources.Base - Subject is Entered
+16:08:07.018 [main] DEBUG resources.Base - Praposal is Entered
+16:08:07.210 [main] DEBUG resources.Base - Background is Entered
+16:08:07.401 [main] DEBUG resources.Base - Justification is Entered
+16:08:07.614 [main] DEBUG resources.Base - FinalImplication is Entered
+16:08:07.835 [main] DEBUG resources.Base - Total Amount is Entered
+16:08:07.943 [main] DEBUG resources.Base - Additional Amount is Entered
+16:08:08.060 [main] DEBUG resources.Base - Diesel Cost is Entered
+16:08:09.656 [main] DEBUG resources.Base - ROI Attachment is Attached
+16:08:09.886 [main] DEBUG resources.Base - BudgetHead is Entered
+16:08:10.136 [main] DEBUG resources.Base - Preferred Supplier is Entered
+16:08:10.331 [main] DEBUG resources.Base - Reason For Overspending is Entered
+16:08:10.520 [main] DEBUG resources.Base - Remarks is Entered
+16:08:10.707 [main] DEBUG resources.Base - Recommendation is Entered
+16:08:12.260 [main] DEBUG resources.Base - Attachment is Attached
+16:08:12.474 [main] DEBUG resources.Base - user comment is Entered
+16:08:12.474 [main] INFO  resources.Base - Values entered successfully
+16:30:50.677 [main] INFO  resources.Base - Driver is Initialized
+16:30:53.631 [main] INFO  resources.Base - Navigated to URL successfully
+16:30:59.822 [main] INFO  resources.Base - Browser is maximized
+16:31:01.422 [main] DEBUG resources.Base - SignIn Text is Visible
+16:31:01.597 [main] DEBUG resources.Base - Email is entered
+16:31:01.697 [main] DEBUG resources.Base - Next Button is clicked
+16:31:01.759 [main] DEBUG resources.Base - Enter Password Text is visible
+16:31:03.367 [main] DEBUG resources.Base - Password is entered
+16:31:04.405 [main] DEBUG resources.Base - Submit Button is clicked
+16:31:24.819 [main] DEBUG resources.Base - Stay sign In button clicked
+16:31:24.930 [main] DEBUG resources.Base - Title verified and sign is successful
+16:51:29.150 [main] INFO  resources.Base - Browesr is intializing
+16:51:35.153 [main] INFO  resources.Base - Driver is Initialized
+16:51:35.153 [main] INFO  resources.Base - Broweser is opened
+16:51:35.154 [main] INFO  resources.Base - SignIn Page is available
+16:51:38.120 [main] INFO  resources.Base - Navigated to URL successfully
+16:51:42.257 [main] INFO  resources.Base - Browser is maximized
+16:51:43.847 [main] DEBUG resources.Base - SignIn Text is Visible
+16:51:44.032 [main] DEBUG resources.Base - Email is entered
+16:51:44.107 [main] DEBUG resources.Base - Next Button is clicked
+16:51:44.147 [main] DEBUG resources.Base - Enter Password Text is visible
+16:51:45.749 [main] DEBUG resources.Base - Password is entered
+16:51:46.787 [main] DEBUG resources.Base - Submit Button is clicked
+16:51:57.718 [main] DEBUG resources.Base - Stay sign In button clicked
+16:51:57.729 [main] DEBUG resources.Base - Title verified and sign is successful
+16:53:40.375 [main] INFO  resources.Base - Browesr is intializing
+16:53:46.480 [main] INFO  resources.Base - Driver is Initialized
+16:53:46.480 [main] INFO  resources.Base - Broweser is opened
+16:53:46.481 [main] INFO  resources.Base - SignIn Page is available
+16:53:48.075 [main] INFO  resources.Base - Navigated to URL successfully
+16:53:53.235 [main] INFO  resources.Base - Browser is maximized
+16:53:54.824 [main] DEBUG resources.Base - SignIn Text is Visible
+16:53:54.988 [main] DEBUG resources.Base - Email is entered
+16:53:55.062 [main] DEBUG resources.Base - Next Button is clicked
+16:53:55.101 [main] DEBUG resources.Base - Enter Password Text is visible
+16:53:56.702 [main] DEBUG resources.Base - Password is entered
+16:53:57.390 [main] DEBUG resources.Base - Submit Button is clicked
+16:54:06.664 [main] DEBUG resources.Base - Stay sign In button clicked
+16:54:06.684 [main] DEBUG resources.Base - Title verified and sign is successful
+16:55:45.055 [main] INFO  resources.Base - Browesr is intializing
+16:55:50.980 [main] INFO  resources.Base - Driver is Initialized
+16:55:50.980 [main] INFO  resources.Base - Broweser is opened
+16:55:50.980 [main] INFO  resources.Base - SignIn Page is available
+16:55:53.489 [main] INFO  resources.Base - Navigated to URL successfully
+16:55:57.626 [main] INFO  resources.Base - Browser is maximized
+16:55:59.222 [main] DEBUG resources.Base - SignIn Text is Visible
+16:55:59.383 [main] DEBUG resources.Base - Email is entered
+16:55:59.462 [main] DEBUG resources.Base - Next Button is clicked
+16:55:59.505 [main] DEBUG resources.Base - Enter Password Text is visible
+16:56:01.100 [main] DEBUG resources.Base - Password is entered
+16:56:02.011 [main] DEBUG resources.Base - Submit Button is clicked
+16:56:10.922 [main] DEBUG resources.Base - Stay sign In button clicked
+16:56:10.931 [main] DEBUG resources.Base - Title verified and sign is successful
+16:56:14.463 [main] INFO  resources.Base - Browesr is intializing
+16:56:19.855 [main] INFO  resources.Base - Driver is Initialized
+16:56:19.855 [main] INFO  resources.Base - Broweser is opened
+16:56:19.856 [main] INFO  resources.Base - Sign is successful
+16:56:31.436 [main] INFO  resources.Base - Browesr is intializing
+16:56:37.141 [main] INFO  resources.Base - Driver is Initialized
+16:56:37.141 [main] INFO  resources.Base - Broweser is opened
+16:56:37.142 [main] INFO  resources.Base - New Site form is Open
+16:56:45.904 [main] INFO  resources.Base - Browesr is intializing
+17:04:04.684 [main] INFO  resources.Base - Driver is Initialized
+17:04:06.098 [main] INFO  resources.Base - Navigated to URL successfully
+17:04:11.090 [main] INFO  resources.Base - Browser is maximized
+17:04:12.679 [main] DEBUG resources.Base - SignIn Text is Visible
+17:04:12.891 [main] DEBUG resources.Base - Email is entered
+17:04:12.975 [main] DEBUG resources.Base - Next Button is clicked
+17:04:13.023 [main] DEBUG resources.Base - Enter Password Text is visible
+17:04:14.639 [main] DEBUG resources.Base - Password is entered
+17:04:15.263 [main] DEBUG resources.Base - Submit Button is clicked
+17:04:25.718 [main] DEBUG resources.Base - Stay sign In button clicked
+17:04:25.787 [main] DEBUG resources.Base - Title verified and sign is successful
+17:04:29.297 [main] INFO  resources.Base - Sign is successful
+17:04:31.036 [main] INFO  resources.Base - New Site form is Open
+17:04:31.037 [main] INFO  resources.Base - New Site form is Open
+17:04:32.758 [main] DEBUG resources.Base - Initiator Designation is selected
+17:04:34.497 [main] DEBUG resources.Base - User Department is selected
+17:04:36.181 [main] DEBUG resources.Base - Budget Category is selected
+17:04:37.896 [main] DEBUG resources.Base - WorkExecutedBy is selected
+17:04:38.053 [main] DEBUG resources.Base - EBLineDistance is entered
+17:04:38.219 [main] DEBUG resources.Base - Indus ID is entered
+17:04:39.968 [main] DEBUG resources.Base - EBLineType is selected
+17:04:43.213 [main] DEBUG resources.Base - Site Name is entered
+17:04:44.801 [main] DEBUG resources.Base - Connection Type is selected
+17:04:46.547 [main] DEBUG resources.Base - Site Type is selected
+17:04:46.666 [main] DEBUG resources.Base - TransformerRating is Entered
+17:04:46.767 [main] DEBUG resources.Base - Applied Load is Entered
+17:04:48.500 [main] DEBUG resources.Base - Subject is Entered
+17:04:48.699 [main] DEBUG resources.Base - Praposal is Entered
+17:04:48.911 [main] DEBUG resources.Base - Background is Entered
+17:04:49.094 [main] DEBUG resources.Base - Justification is Entered
+17:04:49.280 [main] DEBUG resources.Base - FinalImplication is Entered
+17:04:49.449 [main] DEBUG resources.Base - Total Amount is Entered
+17:04:49.554 [main] DEBUG resources.Base - Additional Amount is Entered
+17:04:49.673 [main] DEBUG resources.Base - Diesel Cost is Entered
+17:04:51.268 [main] DEBUG resources.Base - ROI Attachment is Attached
+17:04:51.466 [main] DEBUG resources.Base - BudgetHead is Entered
+17:04:51.715 [main] DEBUG resources.Base - Preferred Supplier is Entered
+17:04:51.922 [main] DEBUG resources.Base - Reason For Overspending is Entered
+17:04:52.122 [main] DEBUG resources.Base - Remarks is Entered
+17:04:52.308 [main] DEBUG resources.Base - Recommendation is Entered
+17:04:53.859 [main] DEBUG resources.Base - Attachment is Attached
+17:04:54.073 [main] DEBUG resources.Base - user comment is Entered
+17:04:54.073 [main] INFO  resources.Base - Values entered successfully
+17:04:54.074 [main] INFO  resources.Base - Values entered successfully
+17:05:12.731 [main] INFO  resources.Base - New Site form is submitted successfully
+17:20:59.744 [main] INFO  resources.Base - Driver is Initialized
+17:21:01.247 [main] INFO  resources.Base - Navigated to URL successfully
+17:21:06.562 [main] INFO  resources.Base - Browser is maximized
+17:23:54.583 [main] INFO  resources.Base - Driver is Initialized
+17:23:55.871 [main] INFO  resources.Base - Navigated to URL successfully
+17:24:01.130 [main] INFO  resources.Base - Browser is maximized
+17:24:02.725 [main] DEBUG resources.Base - SignIn Text is Visible
+17:24:02.892 [main] DEBUG resources.Base - Email is entered
+17:24:02.969 [main] DEBUG resources.Base - Next Button is clicked
+17:24:03.013 [main] DEBUG resources.Base - Enter Password Text is visible
+17:24:04.616 [main] DEBUG resources.Base - Password is entered
+17:24:04.717 [main] DEBUG resources.Base - Submit Button is clicked
+17:25:22.322 [main] INFO  resources.Base - Driver is Initialized
+17:25:23.621 [main] INFO  resources.Base - Navigated to URL successfully
+17:25:28.704 [main] INFO  resources.Base - Browser is maximized
+17:25:30.294 [main] DEBUG resources.Base - SignIn Text is Visible
+17:25:30.457 [main] DEBUG resources.Base - Email is entered
+17:25:30.529 [main] DEBUG resources.Base - Next Button is clicked
+17:25:30.577 [main] DEBUG resources.Base - Enter Password Text is visible

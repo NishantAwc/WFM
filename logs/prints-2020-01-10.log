@@ -1,0 +1,145 @@
+12:35:12.265 [main] DEBUG resources.Base - Enter Password Text is visible
+12:35:12.388 [main] DEBUG resources.Base - Password is entered
+12:35:15.133 [main] DEBUG resources.Base - Submit Button is clicked
+12:36:11.912 [main] DEBUG resources.Base - Stay sign In button clicked
+12:36:11.920 [main] DEBUG resources.Base - Title verified and sign is successful
+12:36:17.682 [main] DEBUG resources.Base - Initiator Designation is selected
+12:36:19.588 [main] DEBUG resources.Base - User Department is selected
+12:36:21.512 [main] DEBUG resources.Base - Budget Category is selected
+12:36:23.388 [main] DEBUG resources.Base - WorkExecutedBy is selected
+12:36:23.634 [main] DEBUG resources.Base - EBLineDistance is entered
+12:36:24.093 [main] DEBUG resources.Base - Indus ID is entered
+12:36:25.890 [main] DEBUG resources.Base - EBLineType is selected
+12:36:29.370 [main] DEBUG resources.Base - Site Name is entered
+12:36:31.046 [main] DEBUG resources.Base - Connection Type is selected
+12:36:32.935 [main] DEBUG resources.Base - Site Type is selected
+12:36:33.203 [main] DEBUG resources.Base - TransformerRating is Entered
+12:36:33.385 [main] DEBUG resources.Base - Applied Load is Entered
+12:36:35.351 [main] DEBUG resources.Base - Subject is Entered
+12:36:35.785 [main] DEBUG resources.Base - Praposal is Entered
+12:36:36.085 [main] DEBUG resources.Base - Background is Entered
+12:36:36.381 [main] DEBUG resources.Base - Justification is Entered
+12:36:36.688 [main] DEBUG resources.Base - FinalImplication is Entered
+12:36:36.970 [main] DEBUG resources.Base - Total Amount is Entered
+12:36:37.187 [main] DEBUG resources.Base - Additional Amount is Entered
+12:36:37.372 [main] DEBUG resources.Base - Diesel Cost is Entered
+12:36:39.038 [main] DEBUG resources.Base - ROI Attachment is Attached
+12:36:39.402 [main] DEBUG resources.Base - BudgetHead is Entered
+12:36:39.823 [main] DEBUG resources.Base - Preferred Supplier is Entered
+12:36:40.213 [main] DEBUG resources.Base - Reason For Overspending is Entered
+12:36:40.504 [main] DEBUG resources.Base - Remarks is Entered
+12:36:40.810 [main] DEBUG resources.Base - Recommendation is Entered
+12:36:42.407 [main] DEBUG resources.Base - Attachment is Attached
+12:36:42.811 [main] DEBUG resources.Base - user comment is Entered
+12:37:36.432 [main] INFO  resources.Base - Driver is Initialized
+12:37:39.180 [main] INFO  resources.Base - Navigated to URL successfully
+12:37:48.116 [main] INFO  resources.Base - Browser is maximized
+12:37:49.810 [main] DEBUG resources.Base - SignIn Text is Visible
+12:37:50.001 [main] DEBUG resources.Base - Email is entered
+12:37:50.095 [main] DEBUG resources.Base - Next Button is clicked
+12:37:50.163 [main] DEBUG resources.Base - Enter Password Text is visible
+12:37:50.305 [main] DEBUG resources.Base - Password is entered
+12:37:58.134 [main] DEBUG resources.Base - Submit Button is clicked
+12:38:15.165 [main] DEBUG resources.Base - Stay sign In button clicked
+12:38:15.181 [main] DEBUG resources.Base - Title verified and sign is successful
+12:38:20.852 [main] DEBUG resources.Base - Initiator Designation is selected
+12:38:22.697 [main] DEBUG resources.Base - User Department is selected
+12:38:24.624 [main] DEBUG resources.Base - Budget Category is selected
+12:38:26.398 [main] DEBUG resources.Base - WorkExecutedBy is selected
+12:38:26.603 [main] DEBUG resources.Base - EBLineDistance is entered
+12:38:26.912 [main] DEBUG resources.Base - Indus ID is entered
+12:38:28.795 [main] DEBUG resources.Base - EBLineType is selected
+12:38:32.168 [main] DEBUG resources.Base - Site Name is entered
+12:38:33.851 [main] DEBUG resources.Base - Connection Type is selected
+12:38:35.703 [main] DEBUG resources.Base - Site Type is selected
+12:38:35.901 [main] DEBUG resources.Base - TransformerRating is Entered
+12:38:36.120 [main] DEBUG resources.Base - Applied Load is Entered
+12:38:37.953 [main] DEBUG resources.Base - Subject is Entered
+12:38:38.209 [main] DEBUG resources.Base - Praposal is Entered
+12:38:38.441 [main] DEBUG resources.Base - Background is Entered
+12:38:38.680 [main] DEBUG resources.Base - Justification is Entered
+12:38:38.934 [main] DEBUG resources.Base - FinalImplication is Entered
+12:38:39.200 [main] DEBUG resources.Base - Total Amount is Entered
+12:38:39.383 [main] DEBUG resources.Base - Additional Amount is Entered
+12:38:39.527 [main] DEBUG resources.Base - Diesel Cost is Entered
+12:38:41.190 [main] DEBUG resources.Base - ROI Attachment is Attached
+12:38:41.496 [main] DEBUG resources.Base - BudgetHead is Entered
+12:38:41.936 [main] DEBUG resources.Base - Preferred Supplier is Entered
+12:38:42.182 [main] DEBUG resources.Base - Reason For Overspending is Entered
+12:38:42.415 [main] DEBUG resources.Base - Remarks is Entered
+12:38:42.650 [main] DEBUG resources.Base - Recommendation is Entered
+12:38:44.251 [main] DEBUG resources.Base - Attachment is Attached
+12:38:44.666 [main] DEBUG resources.Base - user comment is Entered
+12:42:31.106 [main] INFO  resources.Base - Driver is Initialized
+12:42:34.080 [main] INFO  resources.Base - Navigated to URL successfully
+12:42:42.207 [main] INFO  resources.Base - Browser is maximized
+12:42:43.919 [main] DEBUG resources.Base - SignIn Text is Visible
+12:42:44.279 [main] DEBUG resources.Base - Email is entered
+12:42:44.403 [main] DEBUG resources.Base - Next Button is clicked
+12:42:44.462 [main] DEBUG resources.Base - Enter Password Text is visible
+12:42:44.598 [main] DEBUG resources.Base - Password is entered
+12:42:48.435 [main] DEBUG resources.Base - Submit Button is clicked
+12:43:23.836 [main] DEBUG resources.Base - Stay sign In button clicked
+12:43:23.848 [main] DEBUG resources.Base - Title verified and sign is successful
+12:43:32.666 [main] DEBUG resources.Base - Initiator Designation is selected
+12:43:34.460 [main] DEBUG resources.Base - User Department is selected
+12:43:36.334 [main] DEBUG resources.Base - Budget Category is selected
+12:43:38.234 [main] DEBUG resources.Base - WorkExecutedBy is selected
+12:43:38.466 [main] DEBUG resources.Base - EBLineDistance is entered
+12:43:38.782 [main] DEBUG resources.Base - Indus ID is entered
+12:43:40.591 [main] DEBUG resources.Base - EBLineType is selected
+12:43:51.074 [main] DEBUG resources.Base - Site Name is entered
+12:43:52.813 [main] DEBUG resources.Base - Connection Type is selected
+12:43:54.562 [main] DEBUG resources.Base - Site Type is selected
+12:43:54.735 [main] DEBUG resources.Base - TransformerRating is Entered
+12:43:54.882 [main] DEBUG resources.Base - Applied Load is Entered
+12:43:56.756 [main] DEBUG resources.Base - Subject is Entered
+12:43:56.990 [main] DEBUG resources.Base - Praposal is Entered
+12:43:57.262 [main] DEBUG resources.Base - Background is Entered
+12:43:57.545 [main] DEBUG resources.Base - Justification is Entered
+12:43:57.804 [main] DEBUG resources.Base - FinalImplication is Entered
+12:43:58.032 [main] DEBUG resources.Base - Total Amount is Entered
+12:43:58.219 [main] DEBUG resources.Base - Additional Amount is Entered
+12:43:58.391 [main] DEBUG resources.Base - Diesel Cost is Entered
+12:44:00.035 [main] DEBUG resources.Base - ROI Attachment is Attached
+12:44:00.358 [main] DEBUG resources.Base - BudgetHead is Entered
+12:44:00.678 [main] DEBUG resources.Base - Preferred Supplier is Entered
+12:44:00.944 [main] DEBUG resources.Base - Reason For Overspending is Entered
+12:44:01.202 [main] DEBUG resources.Base - Remarks is Entered
+12:44:01.462 [main] DEBUG resources.Base - Recommendation is Entered
+12:44:03.039 [main] DEBUG resources.Base - Attachment is Attached
+12:44:03.316 [main] DEBUG resources.Base - user comment is Entered
+12:45:24.045 [main] INFO  resources.Base - Driver is Initialized
+12:45:27.066 [main] INFO  resources.Base - Navigated to URL successfully
+12:45:36.595 [main] INFO  resources.Base - Browser is maximized
+12:45:38.356 [main] DEBUG resources.Base - SignIn Text is Visible
+12:45:38.600 [main] DEBUG resources.Base - Email is entered
+12:45:38.689 [main] DEBUG resources.Base - Next Button is clicked
+12:45:38.753 [main] DEBUG resources.Base - Enter Password Text is visible
+12:45:38.866 [main] DEBUG resources.Base - Password is entered
+12:45:44.345 [main] DEBUG resources.Base - Submit Button is clicked
+12:46:13.422 [main] DEBUG resources.Base - Stay sign In button clicked
+12:46:13.436 [main] DEBUG resources.Base - Title verified and sign is successful
+12:47:41.413 [main] INFO  resources.Base - Driver is Initialized
+12:47:47.053 [main] INFO  resources.Base - Navigated to URL successfully
+12:47:51.227 [main] INFO  resources.Base - Browser is maximized
+12:47:52.881 [main] DEBUG resources.Base - SignIn Text is Visible
+12:47:53.072 [main] DEBUG resources.Base - Email is entered
+12:47:53.162 [main] DEBUG resources.Base - Next Button is clicked
+12:47:53.217 [main] DEBUG resources.Base - Enter Password Text is visible
+12:47:53.338 [main] DEBUG resources.Base - Password is entered
+12:47:56.156 [main] DEBUG resources.Base - Submit Button is clicked
+12:48:16.555 [main] DEBUG resources.Base - Stay sign In button clicked
+12:48:16.566 [main] DEBUG resources.Base - Title verified and sign is successful
+12:48:22.406 [main] DEBUG resources.Base - Initiator Designation is selected
+12:48:24.307 [main] DEBUG resources.Base - User Department is selected
+12:48:26.088 [main] DEBUG resources.Base - Budget Category is selected
+12:48:27.942 [main] DEBUG resources.Base - WorkExecutedBy is selected
+12:48:28.265 [main] DEBUG resources.Base - EBLineDistance is entered
+12:48:28.591 [main] DEBUG resources.Base - Indus ID is entered
+12:48:30.522 [main] DEBUG resources.Base - EBLineType is selected
+12:48:33.971 [main] DEBUG resources.Base - Site Name is entered
+12:48:35.615 [main] DEBUG resources.Base - Connection Type is selected
+12:48:37.432 [main] DEBUG resources.Base - Site Type is selected
+12:48:37.606 [main] DEBUG resources.Base - TransformerRating is Entered
+12:48:37.758 [main] DEBUG resources.Base - Applied Load is Entered

@@ -1,0 +1,17 @@
+15:27:00.416 [main] DEBUG resources.Base - Background is Entered
+15:27:00.656 [main] DEBUG resources.Base - Justification is Entered
+15:27:00.918 [main] DEBUG resources.Base - FinalImplication is Entered
+15:27:01.105 [main] DEBUG resources.Base - Total Amount is Entered
+15:27:01.263 [main] DEBUG resources.Base - Additional Amount is Entered
+15:27:01.387 [main] DEBUG resources.Base - Diesel Cost is Entered
+15:27:03.043 [main] DEBUG resources.Base - ROI Attachment is Attached
+15:27:03.352 [main] DEBUG resources.Base - BudgetHead is Entered
+15:27:03.662 [main] DEBUG resources.Base - Preferred Supplier is Entered
+15:27:03.899 [main] DEBUG resources.Base - Reason For Overspending is Entered
+15:27:04.128 [main] DEBUG resources.Base - Remarks is Entered
+15:27:04.404 [main] DEBUG resources.Base - Recommendation is Entered
+15:27:06.004 [main] DEBUG resources.Base - Attachment is Attached
+15:27:06.298 [main] DEBUG resources.Base - user comment is Entered
+15:27:06.299 [main] INFO  resources.Base - Values entered successfully
+15:27:06.303 [main] INFO  resources.Base - Values entered successfully
+15:27:25.113 [main] INFO  resources.Base - New Site form is submitted successfully
